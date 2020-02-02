@@ -1,0 +1,22 @@
+[
+    {
+        "id": 2,
+        "name": "John Doe",
+        "email": "johndoe@email.com",
+        "password": "bigsecret"
+    },
+    {
+        "id": 1,
+        "password": "topsecret",
+        "area": "ISRO Layout",
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "country": "India",
+        "name": "Vinod Kumar",
+        "email": "vinod@vinod.co",
+        "pincode": "560078",
+        "houseNo": "TF-1 Elegant Elite",
+        "phone": "9731424784",
+        "street": "1st cross 1st main"
+    }
+]
