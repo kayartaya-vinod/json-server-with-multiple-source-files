@@ -10,4 +10,3 @@ The endpoints will be available at http://localhost:8080/
 
 Vinod<br>
 https://vinod.co/
-
